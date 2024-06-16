@@ -1,0 +1,5 @@
+@media(max-with: 750px){
+    .nav>li{
+        display: none;
+    }
+}
